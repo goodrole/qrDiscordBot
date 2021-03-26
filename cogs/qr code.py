@@ -35,8 +35,7 @@ class QR(commands.Cog):
             img.save('qrcode.png')
 
             await ctx.send('Processing...')
-            time.sleep(3)
-            await ctx.send('Done!')
+            time.sleep(2)
             # sends the image onto discord
             await ctx.send(file=discord.File('qrcode.png'))
             # deletes the image from the directory
