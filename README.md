@@ -1,12 +1,7 @@
 # Discord Bot
- Work in progress project
+Simple discord bot
 
- First project
 
- This is a discord bot made from a beginner 
+Main function being able to generate a qr code
 
- Update 1:
-    added a few basic commands
-        kick
-        ban
-        clear
+![bob](https://user-images.githubusercontent.com/73412379/112674005-4e330000-8e5d-11eb-8747-449425ac0c63.gif)
